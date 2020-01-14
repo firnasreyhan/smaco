@@ -1,0 +1,39 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="490dp"
+    android:height="490dp"
+    android:viewportWidth="490"
+    android:viewportHeight="490">
+  <path
+      android:pathData="M370,370v100c0,5.5 -4.5,10 -10,10H130c-5.5,0 -10,-4.5 -10,-10V370V200v-80c0,-5.5 4.5,-10 10,-10h35h160h35c5.5,0 10,4.5 10,10v80V370z"
+      android:fillColor="#E7ECED"/>
+  <path
+      android:pathData="M325,60l0,50l-160,0l0,-50l35,0l90,0z"
+      android:fillColor="#AFB6BB"/>
+  <path
+      android:pathData="M200,10h90v50h-90z"
+      android:fillColor="#A3A9AE"/>
+  <path
+      android:pathData="M120,200h250v170h-250z"
+      android:fillColor="#43B05C"/>
+  <path
+      android:pathData="M315,260l-65,0l0,-70l-65,105l60,0l-15,105z"
+      android:fillColor="#FFD248"/>
+  <path
+      android:pathData="M229.998,410.001c-1.124,0 -2.262,-0.19 -3.368,-0.586c-4.473,-1.602 -7.201,-6.127 -6.529,-10.829L233.47,305H185c-3.628,0 -6.971,-1.965 -8.736,-5.134s-1.676,-7.045 0.233,-10.13l65,-105c2.352,-3.801 6.939,-5.58 11.239,-4.354c4.299,1.223 7.264,5.149 7.264,9.618v60h55c3.612,0 6.943,1.948 8.715,5.096c1.771,3.148 1.708,7.007 -0.167,10.094l-85,140C236.693,408.245 233.413,410.001 229.998,410.001zM202.951,285H245c2.898,0 5.655,1.258 7.555,3.448c1.899,2.189 2.755,5.097 2.345,7.966l-8.09,56.631L297.229,270H250c-5.523,0 -10,-4.478 -10,-10v-34.848L202.951,285z"
+      android:fillColor="#231F20"/>
+  <path
+      android:pathData="M145,135h20v20h-20z"
+      android:fillColor="#231F20"/>
+  <path
+      android:pathData="M325,135h20v20h-20z"
+      android:fillColor="#231F20"/>
+  <path
+      android:pathData="M145,435h20v20h-20z"
+      android:fillColor="#231F20"/>
+  <path
+      android:pathData="M325,435h20v20h-20z"
+      android:fillColor="#231F20"/>
+  <path
+      android:pathData="M360,100h-25V60c0,-5.522 -4.478,-10 -10,-10h-25V10c0,-5.523 -4.478,-10 -10,-10h-90c-5.523,0 -10,4.477 -10,10v40h-25c-5.523,0 -10,4.478 -10,10v40h-25c-11.028,0 -20,8.972 -20,20v350c0,11.028 8.972,20 20,20h230c11.028,0 20,-8.972 20,-20V120C380,108.972 371.028,100 360,100zM280,20v30h-70V20H280zM175,70h140v30H175V70zM130,470v-90h65v-20h-65V210h65v-20h-65v-70h230v70h-65v20h65v150h-65v20h65v90H130z"
+      android:fillColor="#231F20"/>
+</vector>

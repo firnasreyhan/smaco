@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#920000</color>
+    <color name="colorPrimaryDark">#920000</color>
+    <color name="colorAccent">#FF0000</color>
+    <color name="colorRed">#920000</color>
+    <color name="colorRedNeon">#FF0303</color>
+    <color name="colorRedLight">#E25353</color>
+    <color name="placeholder_bg">#dddddd</color>
+</resources>
